@@ -113,8 +113,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:008882_0000_1030A0E0AA0EB940"/>
-            <pb facs="tcp:008882_0001_1030A0E25B5DF370"/>
+            <pb facs="unknown:008882_0000_1030A0E0AA0EB940"/>
+            <pb facs="unknown:008882_0001_1030A0E25B5DF370"/>
             <p>AN EXERCISE, CONTAINING A DIALOGUE and ODE <hi>Sacred to the Memory of His late gracious Majeſty,</hi> GEORGE II.</p>
             <p>Performed at the public COMMENCEMENT in the COLLEGE of PHILADELPHIA, <hi>May</hi> 23d, 1761.</p>
             <p>The ODE written and ſet to MUSIC by FRANCIS HOPKINSON, <hi>
@@ -127,7 +127,7 @@
       </front>
       <body>
          <div type="dialogue">
-            <pb facs="tcp:008882_0002_1030A0E41897BB08"/>
+            <pb facs="unknown:008882_0002_1030A0E41897BB08"/>
             <head>A DIALOGUE, <hi>&amp;c.</hi>
             </head>
             <sp>
@@ -161,7 +161,7 @@
                <l>What feſtive Day, can <hi>Britain</hi> or her Sons</l>
                <l>Now celebrate? The Voice of Joy is fled.</l>
                <l>
-                  <pb n="4" facs="tcp:008882_0003_1030A0E5BB12B9F8"/>Let no raſh Hand, with Myrtle or with Bay,</l>
+                  <pb n="4" facs="unknown:008882_0003_1030A0E5BB12B9F8"/>Let no raſh Hand, with Myrtle or with Bay,</l>
                <l>Or other flaunting Foliage of the Grove,</l>
                <l>Preſume to deck theſe Walls. Come baleful <hi>Yew</hi>
                </l>
@@ -197,7 +197,7 @@
                <l>And eaſe his labouring Breaſt. The godlike GEORGE,</l>
                <l>The Friend of Freedom, and the Scourge of Tyrants,</l>
                <l>
-                  <pb n="5" facs="tcp:008882_0004_1030A0E76437D1F0"/>The Father of his Country—ſleeps in Duſt!</l>
+                  <pb n="5" facs="unknown:008882_0004_1030A0E76437D1F0"/>The Father of his Country—ſleeps in Duſt!</l>
                <l>Of Import dreadful, from <hi>Britannia</hi>'s Coaſt,</l>
                <l>Confirm'd and full, the mournful Tidings come.</l>
             </sp>
@@ -230,7 +230,7 @@
             </sp>
          </div>
          <div type="ode">
-            <pb n="6" facs="tcp:008882_0005_1030A0E90B21BF28"/>
+            <pb n="6" facs="unknown:008882_0005_1030A0E90B21BF28"/>
             <head>ODE.</head>
             <lg>
                <head>RECITATIVE.</head>
@@ -262,7 +262,7 @@
                <l>The glorious Sun, <hi>Britannia</hi>'s King,</l>
                <l>Withdraws his golden Light;</l>
                <l>
-                  <pb n="7" facs="tcp:008882_0006_1030A0EAAE238DD0"/>His ſetting Ray</l>
+                  <pb n="7" facs="unknown:008882_0006_1030A0EAAE238DD0"/>His ſetting Ray</l>
                <l>Glides ſwift away,</l>
                <l>And yields to conqu'ring Night.</l>
             </lg>
@@ -301,7 +301,7 @@
                <l>And Royal Duſt; it boots us not to ſpend</l>
                <l>Our fleeting Hours in unavailing Sorrow.</l>
                <l>
-                  <pb n="8" facs="tcp:008882_0007_1030A0EC55AE3B60"/>See! by the Bounty of all-ruling Heaven,</l>
+                  <pb n="8" facs="unknown:008882_0007_1030A0EC55AE3B60"/>See! by the Bounty of all-ruling Heaven,</l>
                <l>Another GEORGE to happy <hi>Britons</hi> given!</l>
                <l>Gay Youth and Glory beam around his Throne,</l>
                <l>And glad <hi>Britannia</hi> claims him as her own.</l>
